@@ -1,5 +1,5 @@
 /**
- * @fileoverview use t function to translate
+ * @fileoverview check chinese space
  * @author lomeanhou
  */
 "use strict";
