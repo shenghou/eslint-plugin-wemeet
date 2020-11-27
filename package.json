@@ -1,0 +1,22 @@
+{
+  "name": "eslint-plugin-wemeet",
+  "version": "0.0.1",
+  "description": "eslint rules for wemeet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests --recursive",
+    "mocha": "mocha"
+  },
+  "keywords": [
+    "eslint",
+    "js",
+    "tsx",
+    "wemeet"
+  ],
+  "author": "lomeanhou",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.14.0",
+    "mocha": "^8.2.1"
+  }
+}
