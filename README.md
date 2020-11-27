@@ -34,8 +34,8 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
   "rules": {
-    "wemeet/use-t-function": "warn",
-    "wemeet/chinese-spaceing": "warn"
+    "wemeet/use-t-function": "warn",   // t check
+    "wemeet/chinese-spaceing": "warn"  // chinese spaceing
   }
 }
 ```
