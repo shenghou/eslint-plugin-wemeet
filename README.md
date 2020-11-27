@@ -13,7 +13,7 @@ $ npm i eslint --save-dev
 Next, install `eslint-plugin-wemeet`:
 
 ```bash
-# wemeet other name
+# wemeet or other name
 $ npm install eslint-plugin-wemeet --save-dev
 ```
 
